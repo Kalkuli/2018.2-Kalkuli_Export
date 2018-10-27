@@ -23,7 +23,7 @@ def exports():
     receipts = post_data.get('receipts')
     total_cost = post_data.get('total_cost')
 
-    csvwriter.writerow(['cnpj','company_id','emission_date','emission_place','id','tax_value','total_price', 'total_cost'])
+    csvwriter.writerow(['CNPJ','ID da Empresa','Data de Emissão','Local','Imposto','Valor', 'Valor total'])
 
     count = 0
 
@@ -33,7 +33,6 @@ def exports():
                             emp['company_id'],
                             emp['emission_date'],
                             emp['emission_place'],
-                            emp['id'],
                             emp['tax_value'],
                             emp['total_price'],
                             total_cost])
