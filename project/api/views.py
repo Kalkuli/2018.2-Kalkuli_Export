@@ -51,4 +51,4 @@ def exports():
 
     return send_file('./assets/arquivo.csv', mimetype='text/csv',
                      attachment_filename='arquivo.csv',
-                     as_attachment=True)
+                     as_attachment=True), 200
