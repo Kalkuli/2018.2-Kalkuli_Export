@@ -42,7 +42,6 @@ def exports():
                 emp['company_id'],
                 emp['emission_date'],
                 emp['emission_place'],
-                emp['id'],
                 emp['tax_value'],
                 emp['total_price']])
 
