@@ -4,7 +4,7 @@
 
 <a href="https://travis-ci.com/Kalkuli/2018.2-Kalkuli_Export"><img src="https://travis-ci.org/Kalkuli/2018.2-Kalkuli_Export.svg?branch=master" /></a>
 <a href="https://codeclimate.com/github/Kalkuli/2018.2-Kalkuli_Export/maintainability"><img src="https://api.codeclimate.com/v1/badges/b1f0c20fae43ac3f8c59/maintainability" /></a>
-<a href="https://codeclimate.com/github/Kalkuli/2018.2-Kalkuli_Export/maintainability"><img src="https://api.codeclimate.com/v1/badges/b1f0c20fae43ac3f8c59/maintainability" /></a>
+<a href="https://codeclimate.com/github/Kalkuli/2018.2-Kalkuli_Export/test_coverage"><img src="https://api.codeclimate.com/v1/badges/b1f0c20fae43ac3f8c59/test_coverage" /></a>
 <a href="https://opensource.org/licenses/GPL-3.0"><img src="https://img.shields.io/badge/license-GPL-%235DA8C1.svg"/></a>
 
 </div> 
