@@ -41,3 +41,12 @@ E para saber a cobertura dos testes utilize:
 ```
 docker-compose -f docker-compose-dev.yml run base python manage.py cov
 ```
+
+# Ambientes
+
+## Produção
+Para acessar o ambiente de produção, utilize o link a seguir:```https://zkwnbpeq95.execute-api.sa-east-1.amazonaws.com/prod```
+## Homologação
+Para acessar o ambiente de homologação, utilize o link a seguir:```https://b4iplfd1yj.execute-api.sa-east-1.amazonaws.com/hom```
+
+https://b4iplfd1yj.execute-api.sa-east-1.amazonaws.com/hom
